@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "skills": [
+    {
+      "id": "reels-quality-checker",
+      "source": "external",
+      "repository": "https://github.com/DigitalPandaPL/reels-quality-checker",
+      "entrypoint": "SKILL.md",
+      "stage": "pre-production",
+      "managed_here": false
+    },
+    {
+      "id": "reels-explainer-broll",
+      "source": "local",
+      "path": "skills/reels-explainer-broll",
+      "entrypoint": "SKILL.md",
+      "stage": "post-production"
+    }
+  ],
+  "agents": []
+}

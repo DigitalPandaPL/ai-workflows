@@ -1,0 +1,4 @@
+interface:
+  display_name: "Przebitki do reelsów"
+  short_description: "Realistyczne przebitki: koncepcja, makiety i wideo"
+  default_prompt: "Użyj $reels-explainer-broll, aby na podstawie mojego nagrania i scenariusza przygotować realistyczne przebitki, zaczynając od koncepcji do zatwierdzenia."
